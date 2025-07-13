@@ -25,8 +25,6 @@ I'm an undergraduate student at the School of Computer Science, Beihang Universi
 - Python, PyTorch, TensorFlow
 - LLM, NLP
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jzyyy66&left_color=green&right_color=red)
-
 <!--
 ## Hi there 👋
 
